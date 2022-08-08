@@ -28,6 +28,7 @@ Action of cashBox.py
    of class CashRegister.
 
 output nr1:
+=============================
 Hello! This is the list of the products with the prices.
 
 1.Tshirt          : 150 zł
@@ -79,6 +80,7 @@ Total price for all products is: : 900 PLN
 ======================================
 
 Output nr 2:
+=====================
 
 Hello! This is the list of the products with the prices.
 
