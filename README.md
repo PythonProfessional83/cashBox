@@ -79,7 +79,7 @@ Total price for all products is: : 900 PLN
 ======================================
 
 Output nr 2:
-(base) krzysztofkozak@krzysztofs-macbook-air-2 Python Projects % python -u "/Users/krzysztofkozak/Python projects/Python Projects/Intro_to_python_for_computer_since/10_Object_orientated_programming/cashRegister/cashBox.py"
+
 Hello! This is the list of the products with the prices.
 
 1.Tshirt          : 150 zł
@@ -224,4 +224,4 @@ Price: 230
 
 Total price for all products is: : 292,750,000 PLN
 ======================================
-(base) krzysztofkozak@krzysztofs-macbook-air-2 Python Projects % 
+
